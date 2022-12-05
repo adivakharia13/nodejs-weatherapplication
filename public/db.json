@@ -1,0 +1,39 @@
+{"weather": [{
+    "id":1,
+    "location": "Connecticut",
+    "abbr": "CT",
+    "time": "9:32 PM" ,
+    "temp": "59 F"
+
+
+},
+{
+    "id":2,
+    "location": "utah",
+    "abbr": "UT",
+    "time": "9:32 PM",
+    "temp": "60 F"
+},
+{
+    "id":3,
+    "location": "Texas",
+    "abbr": "TX",
+    "time": "9:32 PM",
+    "temp": "61 F"
+},
+{ 
+    "id":4,
+    "location": "Newyork",
+    "abbr": "NY",
+    "time": "9:32 PM",
+    "temp": "62 F"
+
+},
+{
+     "id":5,
+    "location": "washington dc",
+    "abbr": "WH_DC",
+    "time": "9:32 PM",
+    "temp": "63 F"
+
+}]}
