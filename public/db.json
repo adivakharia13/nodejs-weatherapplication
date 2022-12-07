@@ -1,4 +1,4 @@
-[{
+{"weather":[{
     "id":1,
     "location": "Connecticut",
     "abbr": "CT",
@@ -36,4 +36,4 @@
     "time": "9:32 PM",
     "temp": "63 F"
 
-}]
+}]}

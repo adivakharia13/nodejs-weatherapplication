@@ -12,7 +12,7 @@ const server = http.createServer((req, res)=>
             {
                                     
                                     if (err) throw err;
-                                    // Please note the content-type here is application/json
+                                    // HEre content-type is application/json
                                     res.setHeader("Access-Control-Allow-Origin", "*") ;
                                     res.writeHead(200, { 'Content-Type': 'application/json' });
                                     res.end(content);
@@ -60,4 +60,4 @@ const server = http.createServer((req, res)=>
 });
 
 const PORT = process.env.PORT || 2191;
-server.listen(PORT,()=>console.log(`Great our server is working ${PORT}`))
+server.listen(PORT,()=>console.log(`Congratulation !! our server is working ${PORT}`))
